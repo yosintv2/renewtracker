@@ -63,7 +63,7 @@ export default function RootLayout({
             {`sc_online_i(1714446,"ffffff","ffffff");`}
           </Script>
           <Script id="wau-init" strategy="afterInteractive">
-            {`var _wau = _wau || []; _wau.push(["sjphoi7xt1", "1qzxz258so", "9qe", "c4302bffffff", "small"]);`}
+            {`var _wau = _wau || []; _wau.push(["sjphoi7xt1", "sjphoi7xt1", "9qe", "c4302bffffff", "small"]);`}
           </Script>
           <Script src="https://waust.at/d.js" strategy="afterInteractive" />
         </div>
